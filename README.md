@@ -1,6 +1,6 @@
 # Sequential Characteristic-Function Games
 
-In this repository we maintain the main work related to the Sequential Characteristic-Function Games (SCFG). In this setting, we investigate the interdependence of Characteristic-Function Games (CFG), which are received as input in a total ordered sequence. The solution for such game is an ordered sequence, according to the input, of coalition structures. 
+In this repository, we maintain the main work related to the Sequential Characteristic-Function Games (SCFG). In this setting, we investigate the interdependence of Characteristic-Function Games (CFG), which are received as input in a total ordered sequence. The solution for such a game is an ordered sequence, according to the input, of coalition structures. 
 
 ## Related Papers
 - **2021** [Feasible Coalition Sequences (forthcoming)](): We formally propose the framework for sequential games. We theoretically investigate how this setting relates to other coalition formation problems. Further, we propose a heuristic based algorithm (inspired by [C-Link](https://www.sciencedirect.com/science/article/pii/S0952197616302536)) and experiment with it. All the experiments are available in folder [*2021_AAMAS*](https://github.com/smart-pucrs/SCFG/tree/main/2021_AAMAS).
