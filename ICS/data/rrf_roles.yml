@@ -1,0 +1,70 @@
+0:
+    name: "leader"
+    category: ""
+    core capabilities:
+        - 
+    kind: "personnel"
+    function: [] 
+1:
+    name: "Animal Control/Humane Officer"
+    category: "Animal Emergency Response"
+    core capabilities:
+        - "On-scene Security, Protection and Law Enforcement"
+    kind: "personnel"
+    function: [3, 4, 5]
+2:
+    name: "Animal Depopulation Specialist"
+    category: "Animal Emergency Response"
+    core capabilities:
+        - "Environmental Response/Health and Safety"
+    kind: "personnel"
+    function: [6, 25]
+3:
+    name: "Animal Depopulation Team"
+    category: "Animal Emergency Response"
+    core capabilities:
+        - "Environmental Response/Health and Safety"
+    kind: "team"
+    function: [6, 25]
+4:
+    name: "Animal Evacuation, Transport, and Re-Entry Team"
+    category: ""
+    core capabilities:
+        - "Critical Transportation"
+    kind: "team"
+    function: [2, 7, 8, 9, 10, 11]
+5:
+    name: "Animal Search and Rescue Team"
+    category: "Animal Emergency Response"
+    core capabilities:
+        - "Mass Search and Rescue Operations"
+    kind: "team"
+    function: [8, 12, 13, 14]
+6:
+    name: "Animal Search and Rescue Technician"
+    category: "Animal Emergency Response"
+    core capabilities:
+        - "Mass Search and Rescue Operations"
+    kind: "personnel"
+    function: [9, 12, 7]
+7:
+    name: "Veterinary Medical Team"
+    category: "Public Health, Healthcare, and Emergency Medical Services"
+    core capabilities:
+        - "Animal Emergency Response"
+    kind: "team"
+    function: [16, 17, 18, 19, 20, 21]
+8:
+    name: "Animal and Agriculture Damage Assessment Team"
+    category: "Animal Emergency Response"
+    core capabilities:
+        - "Situational Assessment"
+    kind: "team"
+    function: [13, 22, 23, 24]
+9:
+    name: "Animal Behavior Specialist"
+    category: "Animal Emergency Response"
+    core capabilities:
+        - "Public Health, Healthcare, and Emergency Medical Services"
+    kind: "personnel"
+    function: [26]

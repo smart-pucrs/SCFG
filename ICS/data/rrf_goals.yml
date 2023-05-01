@@ -1,0 +1,21 @@
+0:
+  roles: [3]
+  description: "euthanize animals"
+1:
+  roles: [2, 4, 6]
+  description: "dispose of animal carcasses"
+2:
+  roles: [4, 5, 7]
+  description: "relocate animals"
+3:
+  description: "monitor and control the fruit flies so that they do not escape containment"
+  roles: [1]
+4:
+  description: "control amount of fruit flies by spraying"
+  roles: [2]
+5:
+  description: "Survey Group"
+  roles: [8]
+6:
+  description: "Identification Group"
+  roles: [9]
